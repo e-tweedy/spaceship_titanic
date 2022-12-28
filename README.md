@@ -1,6 +1,6 @@
 # spaceship_titanic
 Kaggle notebook related to the Kaggle getting started prediction competition "Spaceship Titanic".  Examines gradient-boosted tree models to build a prediction.  The notebook hosted on Kaggle can be found at this link:
-https://www.kaggle.com/code/eamonntweedy/training-a-cnn-model-on-mnist-digits
+https://www.kaggle.com/code/eamonntweedy/spaceship-titanic-tree-models
 
 
 The notebook includes the following:
